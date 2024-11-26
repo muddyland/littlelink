@@ -154,6 +154,19 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Bluesky */
+.button-bluesky {
+	--button-text:#FFFFFF;
+	--button-background:#1185FE;
+}
+
+/* Bluesky Alt */
+.button-bluesky-alt {
+	--button-text:#000000;
+	--button-background:#FFFFFF;
+	--button-border:1px solid #000000;
+}
+
 /* Buy Me a Coffee */
 .button.button-coffee {
   color: #100a26;
